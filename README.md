@@ -1,1 +1,1 @@
-This is first repositary
+This is first repository
